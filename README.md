@@ -1,6 +1,6 @@
 # [Тренировки по алгоритмам 4.0](https://yandex.ru/yaintern/training/algorithm-training_4)
 
-<img src="certificate.jpg">
+<img src="photo.jpeg">
 
 ## Темы
 ###  **1.** [Сортировки: быстрая, слиянием и поразрядная](https://youtube.com/live/e3WhTm1G--o)
@@ -18,3 +18,5 @@
 ###  **4.** [Перебор и методы его оптимизации](https://youtube.com/live/PNzrc52lrSw)
 :heavy_check_mark: [ 5 / 5 ] [Домашнее задание #4](https://github.com/badubidabambirimbum/Ya_Training_4/tree/main/%D0%94%D0%974) :zap:
   - :pencil2: [Ссылка на контест](https://contest.yandex.ru/contest/53032)
+
+<img src="certificate.jpg">
